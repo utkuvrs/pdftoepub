@@ -31,7 +31,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone & Navigate to the repository:**
 
 ```bash
-git clone https://github.com/your-username/pdf-to-epub-converter.git
+git clone https://github.com/utkuvrs/pdf-to-epub-converter.git
 cd pdf-to-epub-converter
 ```
 
