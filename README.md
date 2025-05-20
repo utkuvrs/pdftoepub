@@ -24,6 +24,16 @@ What you need to install before running the project:
 
 You can install Node.js from [here](https://nodejs.org/), and Calibre from [here](https://calibre-ebook.com/download).
 
+## OCR Searchable PDFs <a name = "ocr"></a>
+
+To convert scanned PDFs into searchable PDFs using OCR:
+
+1. Install [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/).
+
+```bash
+pip install ocrmypdf
+```
+
 ### Installing
 
 Follow these steps to set up the project on your local machine:
