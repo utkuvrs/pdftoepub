@@ -60,7 +60,7 @@ ebook-convert --version
 4. Create the directories for PDFs and EPUBs (if they don't exist)
 
 ```bash
-mkdir pdfs epubs
+mkdir pdfs && mkdir epubs
 ```
 
 5. Add PDF files to the pdfs directory.
